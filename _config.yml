@@ -9,7 +9,7 @@
 title                    : "Meng Liu - Homepage"
 description              : "+86-15522056966 liumeng2017@tju.edu.cn"
 repository               : "DanielMengLiu/DanielMengLiu.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
