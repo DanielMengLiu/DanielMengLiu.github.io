@@ -21,7 +21,7 @@ I am Meng Liu, a Phd candidate at Cognitive, Computing and Application (CCA) Lab
 
 I am studying speech processing and machine learning. I received guidance from Longbiao Wang, Jianwu Dang and Kong Aik Lee (Singapore).
 
-My research interest includes multimodal processing, anti-spoofing and speaker recognition. I have published more than 20 papers at the top international speech conferences and Journals such as ICASSP, Interspeech and Computer speech & language with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes multimodal processing, anti-spoofing and speaker recognition. I have published more than 20 papers at the top international speech conferences and Journals such as ICASSP, Interspeech and Computer speech & language with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{url}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
