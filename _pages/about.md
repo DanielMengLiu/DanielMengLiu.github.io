@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. candidate with 6-year research experience of speech signal processing/speaker recognition/multimodal learning. I received joint guidance from Longbiao Wang, Jianwu Dang (TJU-CCA Lab) and Kong Aik Lee (A\*STAR).
 
-My research interest includes multimodal processing, anti-spoofing and speaker recognition. I have published over 20 papers at the top international speech conferences and Journals such as ICASSP, Interspeech and Computer speech \& language with total <a href='https://scholar.google.com/citations?user=8iSH77EAAAAJ'>google scholar citations <strong><span id='total_cit'>154</span></strong></a> <a href='https://scholar.google.com/citations?user=8iSH77EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FDanielMengLiu%2FDanielMengLiu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interest includes multimodal processing, anti-spoofing and speaker recognition. I have published over 20 papers at the top international speech conferences and Journals such as ICASSP, Interspeech and Computer speech \& language with total <a href='https://scholar.google.com/citations?user=8iSH77EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FDanielMengLiu%2FDanielMengLiu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
