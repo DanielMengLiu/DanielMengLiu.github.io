@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Meng Liu - Homepage"
+title                    : "Meng Liu (刘猛) - Homepage"
 description              : +86-17622335780 
 repository               : "DanielMengLiu/DanielMengLiu.github.io"
 google_scholar_stats_use_cdn : True
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Meng Liu (刘猛)"
+  name             : "Meng Liu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD Candidate, Tianjin University"
   location         : "Tianjin, China"
