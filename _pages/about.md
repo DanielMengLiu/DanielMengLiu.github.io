@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'></span> 
 
 I am a Ph.D. candidate with 6-year research experience of speech signal processing/speaker recognition/multimodal learning. I received joint guidance from Longbiao Wang, Jianwu Dang (TJU-CCA Lab) and Kong Aik Lee (A\*STAR).
 
