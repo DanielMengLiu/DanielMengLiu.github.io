@@ -31,7 +31,8 @@ My research interest includes multimodal processing, anti-spoofing and speaker r
 **Meng Liu**, Kong Aik Lee, Longbiao Wang, Hanyi Zhang, Chang Zeng, Jianwu Dang
 
 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095883)[[Code]](https://github.com/DanielMengLiu/AudioVisualLip)[[AVLip Datasets]](https://github.com/DanielMengLiu/AudioVisualLip)
-- Keywords: visual speech (lip motion), frame-level correlation, temporal alignment, cross-modal booster, MaxFormer, cross-attention, co-learn from scratch and with pretrained models.
+- Keywords: frame-level correlation, cross-modal booster, MaxFormer, cross-attention, co-learn from scratch and with pretrained models.
+- Highlights: visual speech (lip motion), temporal alignment, modality transfer, quality-aware fusion
 </div>
 </div>
 
