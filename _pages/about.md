@@ -30,9 +30,8 @@ My research interest includes multimodal processing, anti-spoofing and speaker r
 
 **Meng Liu**, Kong Aik Lee, Longbiao Wang, Hanyi Zhang, Chang Zeng, Jianwu Dang
 
-[PDF][[Code]](https://github.com/DanielMengLiu/AudioVisualLip)[Datasets]
-- Visual speech (i.e., lip motion) is highly related to auditory speech due to the co-occurrence and synchronization in speech production. This paper investigates this correlation and proposes a crossmodal speech co-learning paradigm. The primary motivation of our cross-modal co-learning method is modeling one modality aided by exploiting knowledge from another modality. Specifically, two cross-modal boosters are introduced based on an audio-visual pseudo-siamese structure to learn the modality-transformed correlation. Inside each booster, a max-feature-map embedded Transformer variant is proposed for modality alignment and enhanced feature generation. The network is co-learned both from scratch and with pretrained models. Experimental results on the test scenarios demonstrate that our proposed method achieves around 60% and 20% average relative performance improvement over baseline
-unimodal and fusion systems, respectively. 
+[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095883)[[Code]](https://github.com/DanielMengLiu/AudioVisualLip)[[AVLip Datasets]]
+- Keywords: cross-modal booster, modality transfer, frame-level correlation, cross-attention, MaxFormer, co-learn from scratch and with pretrained models, AVLip datasets.
 </div>
 </div>
 
