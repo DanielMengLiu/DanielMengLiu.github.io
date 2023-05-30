@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Meng Liu, a Phd candidate at Cognitive, Computing and Application (CCA) Lab, Tianjin University (TJU), China.
+I am a Ph.D. candidate with 6-year research experience of speech signal processing/speaker recognition/multimodal learning. I received joint guidance from Longbiao Wang, Jianwu Dang (TJU-CCA Lab) and Kong Aik Lee (A\*STAR).
 
-I am studying speech processing and machine learning. I received guidance from Longbiao Wang, Jianwu Dang and Kong Aik Lee (Singapore).
-
-My research interest includes multimodal processing, anti-spoofing and speaker recognition. I have published more than 20 papers at the top international speech conferences and Journals such as ICASSP, Interspeech and Computer speech & language with a 126 total google scholar citations.
+My research interest includes multimodal processing, anti-spoofing and speaker recognition. I have published over 20 papers at the top international speech conferences and Journals such as ICASSP, Interspeech and Computer speech & language with a 154 total google scholar citations.
 
 
 # 🔥 News
