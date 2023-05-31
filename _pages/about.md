@@ -21,6 +21,12 @@ Hi, I am a Ph.D. candidate with <b>6-year</b> research experience on <b>speech s
 
 My research interest includes multimodal processing, anti-spoofing and speaker recognition. I have published over 20 papers at the top international speech conferences and Journals such as ICASSP, Interspeech and Computer speech \& language with total <a href='https://scholar.google.com/citations?user=8iSH77EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FDanielMengLiu%2FDanielMengLiu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+# 🏫 Education
+- *2021.12 - 2022.12*, Research Assistant in Audio-Visual Speaker Verification, Agency for Science, Technology and Research (A\*STAR), Singapore.
+- *2019.09 - 2023.12*, Ph.D. in Applied Computer Technology, Tianjin University (TJU), China.
+- *2017.09 - 2019.06*, M.Sc. in Computer Technology, Tianjin University (TJU), China.
+- *2013.09 - 2017.06*, B.Eng. in Computer Science and Technology, Changchun University of Science and Technology (CUST), China.
+- 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/icassp23.png' alt="sym" width="100%"></div></div>
@@ -73,16 +79,6 @@ My research interest includes multimodal processing, anti-spoofing and speaker r
   
 - Keywords: replay attack, linear attentive filters, fully attentive filters, dynamic bandwidth filters.
 - Highlights: attention mechanism, F-ratio, frequency subbands, phase feature.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/icassp23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Cross-Modal Audio-Visual Co-Learning for Text-Independent Speaker Verification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095883)
-**Meng Liu**, Kong Aik Lee, Longbiao Wang, Hanyi Zhang, Chang Zeng, Jianwu Dang
-[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095883)[[Code]](https://github.com/DanielMengLiu/AudioVisualLip)[[AVLip Datasets]](https://github.com/DanielMengLiu/AudioVisualLip)
-- Keywords: frame-level correlation, cross-modal booster, MaxFormer, cross-attention, co-learn from scratch and with pretrained models.
-- Highlights: visual speech (lip motion), temporal alignment, modality transfer, quality-aware fusion
 </div>
 </div>
 
