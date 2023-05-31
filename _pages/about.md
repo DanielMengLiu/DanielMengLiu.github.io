@@ -82,7 +82,26 @@ My research interest includes multimodal processing, anti-spoofing and speaker r
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
+- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://arxiv.org/pdf/2210.15385.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
