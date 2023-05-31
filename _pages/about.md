@@ -68,7 +68,7 @@ My research interest includes multimodal processing, anti-spoofing and speaker r
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/csl21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSL 2021</div><img src='images/csl21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Replay Attack Detection Using Variable-Frequency Resolution Phase and Magnitude Features](https://www.sciencedirect.com/science/article/abs/pii/S0885230820300942)
