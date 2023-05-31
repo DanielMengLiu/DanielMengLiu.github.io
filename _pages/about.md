@@ -25,7 +25,7 @@ My research interest includes multimodal processing, anti-spoofing and speaker r
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/icassp23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[[**AVLip**]] Cross-Modal Audio-Visual Co-Learning for Text-Independent Speaker Verification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095883)
+[[**AVLip**]] [Cross-Modal Audio-Visual Co-Learning for Text-Independent Speaker Verification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095883)
 **Meng Liu**, Kong Aik Lee, Longbiao Wang, Hanyi Zhang, Chang Zeng, Jianwu Dang
 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095883)[[Code]](https://github.com/DanielMengLiu/AudioVisualLip)[[AVLip Datasets]](https://github.com/DanielMengLiu/AudioVisualLip)
 - Keywords: frame-level correlation, cross-modal booster, MaxFormer, cross-attention, co-learn from scratch and with pretrained models.
