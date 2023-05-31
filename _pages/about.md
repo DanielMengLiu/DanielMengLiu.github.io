@@ -29,17 +29,17 @@ My research interest includes multimodal processing, anti-spoofing and speaker r
 **Meng Liu**, Kong Aik Lee, Longbiao Wang, Hanyi Zhang, Chang Zeng, Jianwu Dang
 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095883)[[Code]](https://github.com/DanielMengLiu/AudioVisualLip)[[AVLip Datasets]](https://github.com/DanielMengLiu/AudioVisualLip)
 - Keywords: frame-level correlation, cross-modal booster, MaxFormer, cross-attention, co-learn from scratch and with pretrained models.
-- Highlights: visual speech (lip motion), temporal alignment, modality transfer, quality-aware fusion
+- Highlights: visual speech (lip motion), temporal alignment, modality transfer, quality-aware fusion.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/icassp23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Cross-Modal Audio-Visual Co-Learning for Text-Independent Speaker Verification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095883)
-**Meng Liu**, Kong Aik Lee, Longbiao Wang, Hanyi Zhang, Chang Zeng, Jianwu Dang
-[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095883)[[Code]](https://github.com/DanielMengLiu/AudioVisualLip)[[AVLip Datasets]](https://github.com/DanielMengLiu/AudioVisualLip)
-- Keywords: frame-level correlation, cross-modal booster, MaxFormer, cross-attention, co-learn from scratch and with pretrained models.
-- Highlights: visual speech (lip motion), temporal alignment, modality transfer, quality-aware fusion
+[**DeepLip**][DeepLip: A Benchmark for Deep Learning-Based Audio-Visual Lip Biometrics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9688240)
+**Meng Liu**, Longbiao Wang, Kong Aik Lee, Hanyi Zhang, Chang Zeng, Jianwu Dang
+[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9688240)[[Code]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9688240)
+- Keywords: audio-visual speaker verification, complementary biometric information, 3D+2D+1D convolution, late fusion, intermediate fusion.
+- Highlights: lip biometrics, transfer learning, deep learning benchmark.
 </div>
 </div>
 
