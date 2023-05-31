@@ -49,16 +49,16 @@ My research interest includes multimodal processing, anti-spoofing and speaker r
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/icassp23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2021</div><img src='images/icassp21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Cross-Modal Audio-Visual Co-Learning for Text-Independent Speaker Verification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095883)
+[Replay-Attack Detection Using Features with Adaptive Spectro-Temporal Resolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414250)
   
-**Meng Liu**, Kong Aik Lee, Longbiao Wang, Hanyi Zhang, Chang Zeng, Jianwu Dang
+**Meng Liu**, Longbiao Wang, Kong Aik Lee, Xuanda Chen, Jianwu Dang
   
-[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095883)[[Code]](https://github.com/DanielMengLiu/AudioVisualLip)[[AVLip Datasets]](https://github.com/DanielMengLiu/AudioVisualLip)
+[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414250)
   
-- Keywords: frame-level correlation, cross-modal booster, MaxFormer, cross-attention, co-learn from scratch and with pretrained models.
-- Highlights: visual speech (lip motion), temporal alignment, modality transfer, quality-aware fusion
+- Keywords: replay distortion, spectro-temporal artifacts, device mismatch.
+- Highlights: F-ratio, attentive filtes, phonetic discrimination, adaptive phase features.
 </div>
 </div>
 
