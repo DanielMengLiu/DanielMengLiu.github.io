@@ -129,7 +129,7 @@ My research interest includes multimodal processing, anti-spoofing and speech re
 - *2018.10 - 2021.09*, Tianjin Municipal Science and Technology Project (No. 18ZXZNGX00330), Key technologies and system implementation of spoken dialogue in complex environments for robots
 - *2021.08 - 2023.07*, Projects sponsored by Ministries and Provinces (No. 2021120005001743), Research on voiceprint recognition and speech recognition system
   
-# 📜 Book Chapter & Patent
+# 📜 Book Chapter \& Patent
 1. Chapter 5: Speaker and Language Recognition, Advances in Speech Information Processing.
 2. Chapter 6: Speaker Recognition Principles and Technology, Speech Information Processing and Practice.
 3. Patent: A Method for Detecting Recording Fraud based on Feature Extraction of Amplitude and Phase using Adaptive Filters (ZL 2019 1 0087795.7)
