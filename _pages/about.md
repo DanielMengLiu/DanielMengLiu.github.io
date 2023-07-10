@@ -123,10 +123,11 @@ My research interest includes multimodal processing, anti-spoofing and speech re
 - Participated in other speech community activities such as the KALDI seminar in Beijing (2018), the national speech recognition seminar at Duke University in Kunshan (2019), the NCMMSC conference in Xining (2019), and the multilingual speaker recognition seminar at Tsinghua University (2020).
 
 # 👔 Projects
-- *2019.06 - 2022.05*, National Key Research and Development Program (No. 2018YFB1305201), Multi-mode fusion of natural robot interaction
-- *2022.01 - 2025.12*, National Natural Science Foundation of China (No. 62176182), Speaker recognition and speaker recognition anti-spoofing under complex scenes   - *2018.01 - 2021.12*, National Natural Science Foundation of China (No. 61771333), Multi-accent speech recognition under a reverberant environment
-- *2018.10 - 2021.09*, Tianjin Municipal Science and Technology Project (No. 18ZXZNGX00330), Key technologies and system implementation of spoken dialogue in complex environments for robots
-- *2021.08 - 2023.07*, Projects sponsored by Ministries and Provinces (No. 2021120005001743), Research on voiceprint recognition and speech recognition system
+- *2019.06 - 2022.05*  National Key Research and Development Program (No. 2018YFB1305201), Multi-mode fusion of natural robot interaction
+- *2022.01 - 2025.12*  National Natural Science Foundation of China (No. 62176182), Speaker recognition and speaker recognition anti-spoofing under complex scenes
+- *2018.01 - 2021.12*  National Natural Science Foundation of China (No. 61771333), Multi-accent speech recognition under a reverberant environment
+- *2018.10 - 2021.09*  Tianjin Municipal Science and Technology Project (No. 18ZXZNGX00330), Key technologies and system implementation of spoken dialogue in complex environments for robots
+- *2021.08 - 2023.07*  Projects sponsored by Ministries and Provinces (No. 2021120005001743), Research on voiceprint recognition and speech recognition system
   
 # 📜 Book Chapter & Patent
 1. Chapter 5: Speaker and Language Recognition, Advances in Speech Information Processing.
