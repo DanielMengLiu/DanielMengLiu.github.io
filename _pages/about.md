@@ -114,7 +114,7 @@ My research interest includes multimodal processing, anti-spoofing and speech re
 - National special prize in National English Competition for College Students (2015).
 - Provincial first prize in LanQiao Cup Programming Competition (2014).
 
-# 🎖 Academic Activities
+# 💻 Academic Activities
 - Assistant researcher at A*STAR, conducted in-depth research on multimodal technology (Singapore)
 - Reviewer for international conferences: ICASSP (2021, 2022, 2023), Interspeech (2021, 2022), APSIPA (2021), ISCSLP(2022)
 - Volunteer for international conferences: ISSP (Tianjin, 2017), ICASSP (Singapore, 2022)
@@ -122,7 +122,7 @@ My research interest includes multimodal processing, anti-spoofing and speech re
 - Organized research team members to participate in international competitions and workshops: ASVSpoof (2019,2021), VoxCeleb (2019,2022), ADD (2021), SDSVC(2020), SRE CTS (2021), SASV(2022) Challenges.
 - Participated in other speech community activities such as the KALDI seminar in Beijing (2018), the national speech recognition seminar at Duke University in Kunshan (2019), the NCMMSC conference in Xining (2019), and the multilingual speaker recognition seminar at Tsinghua University (2020).
 
-# 🎖 Projects
+# 👔 Projects
 - Jun.2019-May.2022, National Key Research and Development Program (No. 2018YFB1305201)
                      Multi-mode fusion of natural robot interaction
 - Jan.2022-Dec.2025, National Natural Science Foundation of China (No. 62176182)
@@ -134,7 +134,7 @@ My research interest includes multimodal processing, anti-spoofing and speech re
 - Aug.2021-Jun.2023, Projects sponsored by Ministries and Provinces (No. 2021120005001743)
                      Research on voiceprint recognition and speech recognition system
   
-# 🎖 Book Chapter & Patent
+# 📜 Book Chapter & Patent
 1. Chapter 5: Speaker and Language Recognition, Advances in Speech Information Processing.
 2. Chapter 6: Speaker Recognition Principles and Technology, Speech Information Processing and Practice.
 3. Patent: A Method for Detecting Recording Fraud based on Feature Extraction of Amplitude and Phase using Adaptive Filters (ZL 2019 1 0087795.7)
